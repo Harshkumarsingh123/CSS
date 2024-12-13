@@ -1,0 +1,17 @@
+div span
+{
+    font-size: xx-large;
+}
+
+div>h3{
+    color: red;
+}
+
+h2+div
+{
+    color: lightseagreen;
+}
+h5~div
+{
+   font-size: xx-large;
+}
