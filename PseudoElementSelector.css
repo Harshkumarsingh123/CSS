@@ -1,0 +1,21 @@
+p::first-letter
+{
+    color: red;
+}
+div::first-line
+{
+    color: lawngreen;
+    font-size: xx-large;
+}
+p::selection
+{
+    background-color: lightcoral;
+}
+div::before
+{ 
+    content : 'I am before '; 
+}
+p::after
+{
+    content: 'I am After';
+}
