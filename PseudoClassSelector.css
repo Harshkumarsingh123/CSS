@@ -1,0 +1,29 @@
+a:hover
+{
+    background-color: lightcoral;
+    color: blue;
+}
+
+p:active
+{
+    color: red;
+    background-color: lawngreen;
+}
+
+div:focus
+{
+    background-color: lightcoral;
+    font-size: xx-large;
+}
+ul li:first-child
+{
+    color: red;
+}
+ul li:last-child
+{
+    color: red;
+}
+ul li:nth-child(3)
+{
+    color: red;
+}
